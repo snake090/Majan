@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ressources>
+    <string-array name="item_label1">
+        <item>
+             東家
+        </item>
+        <item>
+            南家
+        </item>
+        <item>
+            西家
+        </item>
+        <item>
+            北家
+        </item>
+    </string-array>
+</ressources>
