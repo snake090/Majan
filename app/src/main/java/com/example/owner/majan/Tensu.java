@@ -25,6 +25,7 @@ public class Tensu {
         han=han/10;
         han=han-1;
 
+
         return tensu_oya_ron[han-1][yakusuu-1];
 
     }
